@@ -135,7 +135,7 @@ p{
     text-decoration: underline;
 }
 
-/* ========== FLEXBOX GALLERY STYLES ========== */
+/* Flexbox Gallery */
 .photos-flex {
     display: flex;
     flex-wrap: wrap;
@@ -157,7 +157,7 @@ p{
     transform: scale(1.05);
 }
 
-/* ========== GRID GALLERY STYLES ========== */
+/*  Grid Gallery  */
 .photos-grid {
     display: grid;
     gap: 15px;
@@ -177,7 +177,7 @@ p{
     transform: scale(1.05);
 }
 
-/* ========== RESPONSIVE MEDIA QUERIES ========== */
+/*  Responsive Media Queries  */
 
 /* Mobile: ≤ 768px - 1 image per row */
 @media (max-width: 768px) {
